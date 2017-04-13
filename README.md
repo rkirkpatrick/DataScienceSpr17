@@ -1,9 +1,9 @@
 # DataScienceSpr17
 ## Table of Contents
-Contributors
-Languages
-Music
-
++ Contributors
++ Languages
++ Music
++ Project Ideas
 
 ### Contributors
 
@@ -26,3 +26,8 @@ This README page was created by Ryan C. Kirkpatrick
 3. "Lose Yourself" - Eminem
 4. "Wing$" - Macklemore & Ryan Lewis
 5. "Cold Love" - Rainbow Kitten Surprise
+
+
+### Project Ideas
+
++ Track movement using GPS around a city and display how people flow
